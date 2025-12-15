@@ -1,4 +1,3 @@
-# Naresh-Wagh
 # Hi, I'm Naresh 👋
 
 Final-year IT student passionate about building practical software solutions.
